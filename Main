@@ -1,0 +1,8 @@
+Package Test;
+
+public class Main {
+	public static void Main(String[] args){
+		system.outPrintln("Hejsan Jonte!");
+	}
+
+}
